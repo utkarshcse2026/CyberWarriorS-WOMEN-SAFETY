@@ -1,0 +1,21 @@
+{
+  "image_analysis": {
+    "analyses": [],
+    "total_images": 0,
+    "unsafe_images": 0
+  },
+  "summary": {
+    "platform": "Instagram",
+    "safety_metrics": {
+      "safe_image_percentage": 100,
+      "safe_text_percentage": 100
+    },
+    "timestamp": "2024-10-02T02:24:36.204064",
+    "url": "https://www.instagram.com/adapix/"
+  },
+  "text_analysis": {
+    "analyses": [],
+    "total_texts": 0,
+    "unsafe_texts": 0
+  }
+}

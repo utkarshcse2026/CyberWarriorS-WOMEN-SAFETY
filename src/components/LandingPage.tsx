@@ -50,7 +50,7 @@ export default function LandingPage() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
     console.log('Demo requested for:', email)
-    setEmail('')
+    setEmail('utkarshaggarwalcse@gmail.com')
   }
 
   const marketGrowthData = [
