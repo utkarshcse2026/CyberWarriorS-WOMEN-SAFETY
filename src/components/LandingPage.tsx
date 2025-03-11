@@ -135,8 +135,8 @@ export default function LandingPage() {
 
 
     const words = [
-      { text: "AEGIS " ,className:"text-blue-500 dark:text-blue-500"},
-      {text:"AI:",className:"text-blue-500 dark:text-blue-500"},
+      { text: "CYBER " ,className:"text-blue-500 dark:text-blue-500"},
+      {text:"WARRIORS :",className:"text-blue-500 dark:text-blue-500"},
       { text: "Your" },
       { text: "Smart" },
       { text: "Guardian" },
@@ -312,27 +312,27 @@ export default function LandingPage() {
             <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl text-center mb-12">Frequently Asked Questions</h2>
             <Accordion type="single" collapsible className="w-full max-w-3xl mx-auto">
               <AccordionItem value="item-1">
-                <AccordionTrigger>What is Aegis AI, and how does it help improve personal safety?</AccordionTrigger>
+                <AccordionTrigger>What is Cyber Warriors, and how does it help improve personal safety?</AccordionTrigger>
                 <AccordionContent>
-                Aegis AI uses AI-driven technology to analyze risks, send out emergency alerts, and connect you with trusted contacts or nearby users for quick assistance.
+                Cyber Warriors uses AI-driven technology to analyze risks, send out emergency alerts, and connect you with trusted contacts or nearby users for quick assistance.
                 </AccordionContent>
               </AccordionItem>
               <AccordionItem value="item-2">
                 <AccordionTrigger>How does the SOS alert system work?</AccordionTrigger>
                 <AccordionContent>
-                When the SOS button is triggered, the app sends your real-time location, along with an alert message, to your trusted contacts and any Aegis AI users in the vicinity. 
+                When the SOS button is triggered, the app sends your real-time location, along with an alert message, to your trusted contacts and any Cyber Warriors users in the vicinity. 
                 </AccordionContent>
               </AccordionItem>
               <AccordionItem value="item-3">
-                <AccordionTrigger>How does Aegis AI detect and notify users about potential risks?</AccordionTrigger>
+                <AccordionTrigger>How does Cyber Warriors detect and notify users about potential risks?</AccordionTrigger>
                 <AccordionContent>
-                Aegis AI uses AI-powered algorithms and real-time data to assess the user's environment, identifying potential threats such as entering high-risk areas, nearby criminal activities, or other safety hazards.
+                Cyber Warriors uses AI-powered algorithms and real-time data to assess the user's environment, identifying potential threats such as entering high-risk areas, nearby criminal activities, or other safety hazards.
                 </AccordionContent>
               </AccordionItem>
               <AccordionItem value="item-4">
-                <AccordionTrigger>Can I use Aegis AI even if I don’t have access to the internet?</AccordionTrigger>
+                <AccordionTrigger>Can I use Cyber Warriors even if I don’t have access to the internet?</AccordionTrigger>
                 <AccordionContent>
-                Yes, Aegis AI is designed to offer limited functionality even in offline mode. 
+                Yes, Cyber Warriors is designed to offer limited functionality even in offline mode. 
                 </AccordionContent>
               </AccordionItem>
             </Accordion>
@@ -368,7 +368,7 @@ export default function LandingPage() {
         </section>
       </main>
       <footer className="flex flex-col gap-2 sm:flex-row py-6 w-full shrink-0 items-center px-4 md:px-6 border-t">
-        <p className="text-xs text-gray-400">© 2056 CriticalLink. All rights reserved.</p>
+        <p className="text-xs text-gray-400">© Aggarwal Industries 2025. All rights reserved.</p>
         <nav className="sm:ml-auto flex gap-4 sm:gap-6">
           <Link className="text-xs hover:underline underline-offset-4" href="#">
             Terms of Service
