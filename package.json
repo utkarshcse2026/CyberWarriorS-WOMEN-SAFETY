@@ -9,6 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "next": "14.2.13",
+    "react": "^18",
+    "react-dom": "^18",
     "@googlemaps/js-api-loader": "^1.16.8",
     "@heroicons/react": "^2.1.5",
     "@kinde-oss/kinde-auth-nextjs": "^2.3.8",
@@ -40,12 +43,9 @@
     "inferencejs": "^1.0.12",
     "lucide-react": "^0.446.0",
     "multer": "^1.4.5-lts.1",
-    "next": "14.2.13",
     "openai": "^4.63.0",
     "papaparse": "^5.4.1",
     "pdf-parse": "^1.1.1",
-    "react": "^18",
-    "react-dom": "^18",
     "react-dropzone": "^14.2.3",
     "react-icons": "^5.3.0",
     "recharts": "^2.12.7",
