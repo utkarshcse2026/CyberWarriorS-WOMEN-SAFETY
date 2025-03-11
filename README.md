@@ -1,6 +1,6 @@
-# AegisAI - Empowering Women's Safety Through AI
+# CyberWarriors  - Empowering CyberSecurity and  Women's Safety Through AI 
 
-AegisAI is a Next.js-based project aimed at enhancing personal safety, particularly for women, through AI-powered SOS alerts, geofencing, real-time safety tracking, and wearable technology integration.
+CyberWarriors is a Next.js-based project aimed at enhancing personal safety, particularly for women, through AI-powered SOS alerts, geofencing, real-time safety tracking, and wearable technology integration.
 
 ## Features
 
